@@ -266,15 +266,7 @@ npm run preview                 # Preview production build
 
 **Your Name**
 - GitHub: [Smail Yazidi](https://github.com/smail-yazidi)
-- Email: your.email@example.com
 
-## 🙏 Acknowledgments
 
-- Laravel Framework Team
-- React Team
-- Tailwind CSS Team
-- All open source contributors
-
----
 
 **Happy Coding! 🚀**
